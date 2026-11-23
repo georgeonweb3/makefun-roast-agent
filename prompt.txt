@@ -1,0 +1,5 @@
+Build a make.fun "Roast Your Own Agent" entry: a Python program that writes
+one original, playful, single-line roast of the entrant's own AI agent to
+/output/entry.txt (UTF-8, 1-200 characters, one line, deterministic, no
+network, no randomness). The roast must be funny on first read, fresh
+(no stock hallucination/refusal jokes), tight, with the punchline at the end.
